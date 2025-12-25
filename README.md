@@ -1,16 +1,71 @@
-## Hi there 👋
+<div align="center" width="50">
 
-<!--
-**youseffahmedd/youseffahmedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-Here are some ideas to get you started:
+<details>
+<p><strong><summary> 🚀 Busy training models & vibing to </summary></strong></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com)
+
+</details>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YousefAhmed&style=flat&color=orange&label=PROFILE+VIEWS)
+[![GitHub Followers](https://img.shields.io/github/followers/YousefAhmed?style=flat)](https://github.com/YousefAhmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yousef_Ahmed-blue?style=flat&logo=linkedin)](https://linkedin.com)
+
+</div>
+
+---
+
+## 🚀 AI Engineer | Machine Learning | NLP | Deep Learning
+
+I’m **Yousef Ahmed**, an **AI Engineer** passionate about building intelligent systems, training deep learning models, and understanding how things work **from scratch**.
+
+I enjoy:
+- 🧠 Building ML & DL models
+- 🤖 NLP & Transformers
+- ⚙️ Linux, Conda & WSL workflows
+- 📚 Reading research papers & implementations
+
+---
+
+## 🧰 Tools & Technologies I Use
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![WSL](https://img.shields.io/badge/WSL2-0A0A0A?style=flat&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+---
+
+```python
+# tools_I_use organized (AI Engineer edition)
+
+class AboutMe:
+    def __init__(self):
+        self.skills = {
+            "Programming": ["Python", "C++", "Java", "Bash"],
+            "ML_DL": [
+                "PyTorch", "TensorFlow", "Scikit-Learn",
+                "CNNs", "RNNs", "Transformers"
+            ],
+            "NLP": [
+                "Tokenization", "Word2Vec", "GloVe",
+                "BERT", "GPT", "HuggingFace"
+            ],
+            "MLOps": ["Docker", "Git", "Conda"],
+            "Platforms": ["Linux", "WSL2", "Windows"],
+            "Data": ["NumPy", "Pandas", "SQL"]
+        }
