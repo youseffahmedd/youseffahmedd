@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 I graduated from the **Faculty of Computers & AI at Cairo University**.  
+🎓 I graduated from **Faculty of Computers & Artificial Intelligence at Cairo University**.  
 
 I enjoy:
 - 🧠 Building ML & DL models  
