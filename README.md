@@ -1,18 +1,10 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
-
-<details>
-<p><strong><summary> 🚀 Busy training models & vibing to </summary></strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com)
-
-</details>
+## 👋 Hi, I'm **Yousef El-Semry**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YousefAhmed&style=flat&color=orange&label=PROFILE+VIEWS)
 [![GitHub Followers](https://img.shields.io/github/followers/YousefAhmed?style=flat)](https://github.com/YousefAhmed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yousef_Ahmed-blue?style=flat&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yousef_El--Semry-blue?style=flat&logo=linkedin)](https://linkedin.com)
 
 </div>
 
@@ -20,7 +12,12 @@
 
 ## 🚀 AI Engineer | Machine Learning | NLP | Deep Learning
 
-I’m **Yousef Ahmed**, an **AI Engineer** passionate about building intelligent systems, training deep learning models, and understanding how things work **from scratch**.
+---
+
+## 👨‍💻 About Me
+
+🎓 I graduated from the **Faculty of Computers & AI at Cairo University**.  
+I’m passionate about **building intelligent systems**, training deep learning models, and understanding how things work **from scratch**.
 
 I enjoy:
 - 🧠 Building ML & DL models  
