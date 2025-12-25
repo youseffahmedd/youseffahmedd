@@ -2,22 +2,12 @@
 
 ## 👋 Hi, I'm **Yousef El-Semry**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YousefAhmed&style=flat&color=orange&label=PROFILE+VIEWS)
-[![GitHub Followers](https://img.shields.io/github/followers/YousefAhmed?style=flat)](https://github.com/YousefAhmed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yousef_El--Semry-blue?style=flat&logo=linkedin)](https://linkedin.com)
-
 </div>
 
----
-
-## 🚀 AI Engineer | Machine Learning | NLP | Deep Learning
-
----
 
 ## 👨‍💻 About Me
 
 🎓 I graduated from the **Faculty of Computers & AI at Cairo University**.  
-I’m passionate about **building intelligent systems**, training deep learning models, and understanding how things work **from scratch**.
 
 I enjoy:
 - 🧠 Building ML & DL models  
@@ -44,23 +34,13 @@ I enjoy:
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 
-</div>
-
----
-
-### ⚙️ Platforms & DevOps
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![WSL2](https://img.shields.io/badge/WSL2-0A0A0A?style=flat&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 
 </div>
 
@@ -80,22 +60,14 @@ I enjoy:
 
 ---
 
-```python
-# tools_I_use organized (AI Engineer edition)
+### ⚙️ Platforms & DevOps
+<div align="center">
 
-class AboutMe:
-    def __init__(self):
-        self.skills = {
-            "Programming": ["Python", "C++", "Java", "Bash"],
-            "ML_DL": [
-                "PyTorch", "TensorFlow", "Scikit-Learn",
-                "CNNs", "RNNs", "Transformers"
-            ],
-            "NLP": [
-                "Tokenization", "Word2Vec", "GloVe",
-                "BERT", "GPT", "HuggingFace", "spaCy"
-            ],
-            "MLOps": ["Docker", "Git", "Conda"],
-            "Platforms": ["Linux", "WSL2", "Windows"],
-            "Data": ["NumPy", "Pandas", "SQL", "Matplotlib"]
-        }
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![WSL2](https://img.shields.io/badge/WSL2-0A0A0A?style=flat&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+
+</div>
+
+---
+
